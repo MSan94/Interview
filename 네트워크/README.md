@@ -609,3 +609,6 @@ Little Endian
 10) CSS parser가 .css 파일을 파싱해 스타일 규칙을 DOM 트리에 추가하고 렌더 트리를 만듦
 11) 렌더트리를 기반으로 브라우저의 크기에 따라 각 노드들의 크기를 결정
 12) 렌더링 엔진이 배치를 시작(페인팅)
+
+
+https://hyonee.tistory.com/136
